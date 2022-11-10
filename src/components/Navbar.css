@@ -1,0 +1,35 @@
+.Nav-bar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #2C3E50, #000000) ;
+}
+.logo{
+    width: 65px;
+    cursor: pointer;
+    margin-left: 1%;
+    /* margin: 30px 0; */
+}
+/* .menu-icon{
+    width: 25px;
+    cursor: pointer;
+
+}  */
+.Nav-bar ul{
+    flex: 1;
+    text-align: right;
+}
+.Nav-bar ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 150px;
+}
+.Nav-bar ul li a{
+    text-decoration: underline;
+    color: #000;
+    font-size: 25px;
+    color: white;
+}
+.Nav-bar ul li a:hover{
+    color: black;
+} 

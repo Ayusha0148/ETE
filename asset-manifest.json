@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ete/static/css/main.d659a17a.css",
+    "main.js": "/ete/static/js/main.a4d9682c.js",
+    "static/media/beauty3.jpeg": "/ete/static/media/beauty3.426694c11a5fd1723a4d.jpeg",
+    "static/media/photo2.png": "/ete/static/media/photo2.0fc7447a3030a04e8c90.png",
+    "static/media/beauty6.png": "/ete/static/media/beauty6.f9ab52d26244d537261c.png",
+    "static/media/beauty1.png": "/ete/static/media/beauty1.3d64619cfcf435add998.png",
+    "static/media/beauty5.jpeg": "/ete/static/media/beauty5.98d58cb38da34ad1994d.jpeg",
+    "static/media/fashion.png": "/ete/static/media/fashion.d275f12d60be04f04e9e.png",
+    "index.html": "/ete/index.html",
+    "main.d659a17a.css.map": "/ete/static/css/main.d659a17a.css.map",
+    "main.a4d9682c.js.map": "/ete/static/js/main.a4d9682c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d659a17a.css",
+    "static/js/main.a4d9682c.js"
+  ]
+}
